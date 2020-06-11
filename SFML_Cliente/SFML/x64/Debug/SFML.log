@@ -1,0 +1,95 @@
+﻿  Alfil.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Caballo.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  ConectarServer.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  GameLoop.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\GameLoop.cpp(114,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\GameLoop.cpp(132,56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\GameLoop.cpp(132,47): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  GameOverScreen.cpp
+  Peon.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Pieza.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  PlayerInput.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(51,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(52,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(99,156): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(99,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(102,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(122,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.cpp(154,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Reina.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Rey.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  SFML.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Tablero.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Tablero.cpp(16,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Tablero.cpp(16,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Tablero.cpp(30,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Tablero.cpp(33,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Torre.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Utils.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\PlayerInput.h(9,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Utils.cpp(10,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Cliente\SFML\Utils.cpp(11): warning C4172: returning address of local variable or temporary: medidaPieza
+sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

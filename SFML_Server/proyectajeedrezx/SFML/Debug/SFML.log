@@ -1,0 +1,325 @@
+﻿  Alfil.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(47,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(48,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(118,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(157,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(161,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(162,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(231,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(270,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(272,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(276,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(277,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(340,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(380,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(382,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(386,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(387,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(448,22): warning C4018: '<': signed/unsigned mismatch
+  Caballo.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Caballo.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+  ManejoConexiones.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\ManejoConexiones.cpp(57,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\ManejoConexiones.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\ManejoConexiones.cpp(89,66): warning C4018: '<': signed/unsigned mismatch
+  Peon.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Peon.cpp(12,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Peon.cpp(13,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Peon.cpp(92,22): warning C4018: '<': signed/unsigned mismatch
+  Pieza.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(65,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(67,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(69,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(70,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+  PlayerInput.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Reina.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(13,91): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(15,91): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(56,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(58,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(60,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(61,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(131,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(168,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(170,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(174,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(175,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(244,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(282,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(284,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(288,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(289,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(352,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(392,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(394,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(398,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(399,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(460,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(495,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(497,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(498,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(500,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(599,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(602,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(603,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(605,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(709,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(711,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(715,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(716,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(717,29): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(718,29): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(799,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(801,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(804,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(805,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Rey.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Rey.cpp(24,24): warning C4018: '<': signed/unsigned mismatch
+  SFML.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Tablero.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Torre.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(17,87): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(19,87): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(56,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(57,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(59,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(163,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(164,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(166,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(270,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(272,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(276,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(277,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(278,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(279,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(360,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(362,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(365,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(366,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Utils.cpp
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.cpp(10,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.cpp(11): warning C4172: returning address of local variable or temporary: medidaPieza
+  SFML.vcxproj -> C:\Users\Joan Abad\Downloads\Ajedrez\SFML_Server\proyectajeedrezx\Debug\SFML.exe

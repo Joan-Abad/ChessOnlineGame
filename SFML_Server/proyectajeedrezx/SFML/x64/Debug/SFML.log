@@ -1,0 +1,303 @@
+﻿  Alfil.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(47,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(48,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(91,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(92,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(161,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(162,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(204,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(205,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(276,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(277,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(319,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(320,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(386,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(387,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(430,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.cpp(431,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Caballo.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Caballo.cpp(87,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ManejoConexiones.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Peon.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Peon.cpp(12,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Peon.cpp(13,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pieza.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(65,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(67,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(69,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Pieza.cpp(70,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PlayerInput.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Reina.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(13,91): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(15,91): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(60,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(61,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(104,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(105,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(174,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(175,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(217,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(218,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(288,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(289,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(331,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(332,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(398,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(399,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(442,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(443,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(497,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(498,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(545,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(546,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(602,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(603,27): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(715,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(716,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(717,29): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(718,29): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(804,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(805,31): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(846,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Reina.cpp(847,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Rey.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Rey.cpp(29,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SFML.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Tablero.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Alfil.h(4,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+  Torre.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(17,87): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(19,87): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(56,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(57,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(104,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(105,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(163,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(164,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(276,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(277,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(278,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(279,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(365,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(366,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(407,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Torre.cpp(408,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Utils.cpp
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.h(5,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\PlayerInput.h(8,23): warning C4091: 'extern ': ignored on left of 'ColorPieza' when no variable is declared
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.cpp(10,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+C:\Users\Joan Abad\Documents\Joan Abad\SFML\SFML_Ajedrez\SFML_Server\proyectajeedrezx\SFML\Utils.cpp(11): warning C4172: returning address of local variable or temporary: medidaPieza
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
